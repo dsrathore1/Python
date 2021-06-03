@@ -1,4 +1,8 @@
 .vscode
 API
 test.txt
+<<<<<<< HEAD
 test.txt
+=======
+test2.txt
+>>>>>>> refs/remotes/origin/master
